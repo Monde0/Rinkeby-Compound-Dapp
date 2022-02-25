@@ -1,0 +1,18 @@
+.nav-bar{
+    margin-top: 100px;
+    margin-left: 15%;
+    display: flex;
+    justify-content: start;
+    height: auto;
+}
+.nav-box{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+}
+.nav-box:hover{
+    border-bottom: 3px solid white;
+}
